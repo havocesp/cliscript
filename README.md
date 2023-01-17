@@ -1,0 +1,2 @@
+# cliscript
+CLI Script Template
